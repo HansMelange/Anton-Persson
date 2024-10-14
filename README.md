@@ -12,9 +12,9 @@ My Projects
 
 Here are some of the projects I've been working on:
 
-Project 1: a small website using ghost: [https://antonpghost.polhemsskolan.com/](#website)
+Project 1: a small website using ghost: [[LINK]](https://antonpghost.polhemsskolan.com/)
 
-Project 2: Ive made som small games just for fun at: [https://inter-dream-games.itch.io/](#LINK) and [https://hansmelange.itch.io/greg](#LINK) (some are really old)
+Project 2: Ive made som small games just for fun at: [[LINK]](https://inter-dream-games.itch.io/) and [[LINK]](https://inter-dream-games.itch.io/) (some are really old)
 
 Project 3: ...
 
