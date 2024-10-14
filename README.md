@@ -25,6 +25,8 @@ Skills
 - Coding in C#, GD Script, Lua
   
 - Being able to work well in a team
-...
+
+  
 Connect with Me:
+
 LinkedIn (soon)
