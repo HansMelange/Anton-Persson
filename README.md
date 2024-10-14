@@ -1,7 +1,7 @@
 I'm Anton Persson, I study networking and i love programming and going to the gym. Welcome to my GitHub profile!
 
 About Me
-🌱 I'm currently learning network technology.
+🌱 I'm currently learning network technology and phyton.
 💼 I study at Polhemsskolan in Gävle Sweden.
 📫 You can reach me at Antonbergstig@gmail.com.
 My Projects
